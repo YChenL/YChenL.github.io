@@ -18,7 +18,7 @@ Submitted to INTERSPEECH, 2023<br/>
 <i>DeflickerCycleGAN: Learning to Detect and Remove Flickers in a Single Image</i><br/>
 Xiaodan Lin, <b>Yangfu Li</b>, Jianqin Zhu, Huanqiang Zeng*<br/>
 IEEE Transactions on Image Processing (TIP)<br/>
-
+<br/>
 <i>A Conv-Attention Network for Detecting the Presence of ENF Signal in Short-Duration Audio</i><br/>
 <b>Yangfu Li</b>, Xiaodan Lin*, Yinqiang Qiu, Huanqiang Zeng<br/>
 IEEE International Workshop on Multimedia Signal Processing (MMSP), 2022<br/>
