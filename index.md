@@ -26,7 +26,7 @@
 <body style = "font-family:Lucida bright;" >
 	<div class="container">
 		<div class="image">
-			<img src="https://via.placeholder.com/160x200" alt="placeholder image">
+			<img src="./photo.jpg/160x200" alt="placeholder image">
 		</div>
 		<div class="text", line-height: 50px>
          		Postgraduate Student</br>
