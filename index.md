@@ -10,23 +10,23 @@
 <h4>Speech processing</h4>
 <hr style="height:3px;border:none;border-top:1px solid #555555;" />
 <i>DS-TDNN: Dual-stream Time-Delay Neural Network with Dynamic Global Filter for Speaker Verification</i>
-<p><b>Yangfu Li<\b>, Xiaodan Lin*</p>
+<b>Yangfu Li<\b>, <p>Xiaodan Lin*</p>
 <p>submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</p>
 
 <i>PSVRF: A Learning-based Framework to Restore Pitch-shifted Voice for Speaker Identification</i>
-<p><b>Yangfu Li<\b>, Xiaodan Lin*</p>
+<b>Yangfu Li<\b>, <p> Xiaodan Lin*</p>
 <p>submitted to INTERSPEECH, 2023 </p>
  
 <h2>Publications</h2>
 <hr style="height:3px;border:none;border-top:1px solid #555555;" />
 <h4>Computer Vision</h4>
 <i>DeflickerCycleGAN: Learning to Detect and Remove Flickers in a Single Image</i>
-<p>Xiaodab Lin, <b>Yangfu Li</b>, Jianqin Zhu, Huanqiang Zeng*</p>
+<p>Xiaodab Lin</p>, <b>Yangfu Li</b>, <p>Jianqin Zhu, Huanqiang Zeng*</p>
 <p>IEEE Transactions on Image Processing (TIP)</p>  
   
 <h4>Speech processing</h4>
 <i>A Conv-Attention Network for Detecting the Presence of ENF Signal in Short-Duration Audio</i>
-<p><b>Yangfu Li<\b>, Xiaodan Lin*, Yinqiang Qiu, Huanqiang Zeng</p>
+<b>Yangfu Li<\b>, <p>Xiaodan Lin*, Yinqiang Qiu, Huanqiang Zeng</p>
 <p>IEEE International Workshop on Multimedia Signal Processing (MMSP), 2022</p>
   
 </body>
