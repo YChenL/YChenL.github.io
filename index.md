@@ -10,7 +10,7 @@
 <h4>Speech processing</h4>
 <hr style="height:3px;border:none;border-top:1px solid #555555;" />
 <i>DS-TDNN: Dual-stream Time-Delay Neural Network with Dynamic Global Filter for Speaker Verification</i>
-<b>Yangfu Li<\b>, <p>Xiaodan Lin*</p>
+<b>Yangfu Li<\b>, Xiaodan Lin*
 <p>submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</p>
 
 <i>PSVRF: A Learning-based Framework to Restore Pitch-shifted Voice for Speaker Identification</i>
