@@ -6,7 +6,19 @@
 
 <p>My research interests mainly include deep generative models, image processing, speech processing, multi-model learning, and representation learning.</p>
 <h2>Preprints</h2>
-<h4>Speech processing</h4>
+<h4>Speech processing:</h4>
+<table border="0">
+  <tr>
+    <i>DS-TDNN: Dual-stream Time-Delay Neural Network with Dynamic Global Filter for Speaker Verification</i>
+  </tr>
+  <tr>
+    <b>Yangfu Li</b>, Xiaodan Lin*
+  </tr>
+  <tr>
+    submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
+  </tr> 
+</table>
+ 
 <i>DS-TDNN: Dual-stream Time-Delay Neural Network with Dynamic Global Filter for Speaker Verification</i>
 <p><b>Yangfu Li</b>, Xiaodan Lin*</p>
 <p>submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</p>
