@@ -2,28 +2,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>图片和文字解释</title>
-	<style>
-		.container {
-			display: flex;
-			flex-wrap: wrap;
-		}
+   <title>图片和文字解释</title>
+   <style>
+   .container {
+   	display: flex;
+	flex-wrap: wrap;
+   }
 
-		.image {
-			flex: 1;
-			max-width: 20%;
-			padding: 10px;
-		}
+   .image {
+	flex: 1;
+	max-width: 20%;
+	padding: 10px;
+   }
 
-		.text {
-			flex: 1;
-			max-width: 80%;
-			padding: 10px;
-		}
-	</style>
+   .text {
+       flex: 1;
+       max-width: 80%;
+       padding: 10px;
+   }
+   </style>
 </head>
 <body style = "font-family:Lucida bright;" >
-  
 	<div class="container">
 		<div class="image">
 			<img src="photo.jpg/160x200" alt="placeholder image">
