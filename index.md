@@ -31,7 +31,8 @@
          		<p>Postgraduate Student</p>
         		<p>School of Information Science and Engineering</p>
          		<p>Huaqiao University</p>
-         		<p>Postcode: 350108</p>
+			<p>No.668, Jimei Avenue, Jimei District, Xiamen, Fujian</p>
+         		<p>Postcode: 361021</p>
          		<p>Email: 21013082029@stu.hqu.edu.cn / 2667392087@qq.com</p>
 		</div>
 	</div>
