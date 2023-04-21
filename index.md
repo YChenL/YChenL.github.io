@@ -6,7 +6,6 @@
 
 <p>My research interests mainly include deep generative models, image processing, speech processing, multi-model learning, and representation learning.</p>
 <h2>Preprints</h2>
-<h4>Speech processing:</h4>
 <i>DS-TDNN: Dual-stream Time-Delay Neural Network with Dynamic Global Filter for Speaker Verification</i><br/>
 <b>Yangfu Li</b>, Xiaodan Lin*<br/>
 Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)<br/>
@@ -16,12 +15,10 @@ Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TA
 Submitted to INTERSPEECH, 2023<br/>
  
 <h2>Publications</h2>
-<h4>Computer Vision</h4>
 <i>DeflickerCycleGAN: Learning to Detect and Remove Flickers in a Single Image</i><br/>
 Xiaodan Lin, <b>Yangfu Li</b>, Jianqin Zhu, Huanqiang Zeng*<br/>
 IEEE Transactions on Image Processing (TIP)<br/>
-  
-<h4>Speech processing</h4>
+
 <i>A Conv-Attention Network for Detecting the Presence of ENF Signal in Short-Duration Audio</i><br/>
 <b>Yangfu Li</b>, Xiaodan Lin*, Yinqiang Qiu, Huanqiang Zeng<br/>
 IEEE International Workshop on Multimedia Signal Processing (MMSP), 2022<br/>
