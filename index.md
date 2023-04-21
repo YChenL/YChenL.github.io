@@ -3,7 +3,7 @@
 <body>
 <h2>About me</h2>
 <hr style="height:3px;border:none;border-top:1px solid #555555;" />
-<p>I am currently pursuing the M.S. degreer at Huaqiao University. I've received the bachelor degree from FuZhou University, in 2020.</p>
+<p>I am currently pursuing the M.S. degreer at Huaqiao University (Supervisor: Xiaodan Lin). I've received the bachelor degree from FuZhou University, in 2020.</p>
 
 <p>My research interests mainly include deep generative models, image processing, speech processing, multi-model learning, and representation learning.</p>
 <h2>Preprints</h2>
@@ -21,7 +21,7 @@
 <hr style="height:3px;border:none;border-top:1px solid #555555;" />
 <h4>Computer Vision</h4>
 <i>DeflickerCycleGAN: Learning to Detect and Remove Flickers in a Single Image</i>
-<p>Xiaodab Lin, <b>Yangfu Li</b>, Jianqin Zhu, Huanqiang Zeng*</p>
+<p>Xiaodan Lin, <b>Yangfu Li</b>, Jianqin Zhu, Huanqiang Zeng*</p>
 <p>IEEE Transactions on Image Processing (TIP)</p>  
   
 <h4>Speech processing</h4>
