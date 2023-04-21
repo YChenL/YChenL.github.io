@@ -2,41 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>图片和文字解释</title>
-	<style>
-		.container {
-			display: flex;
-			flex-wrap: wrap;
-		}
-
-		.image {
-			flex: 1;
-			max-width: 50%;
-			padding: 10px;
-		}
-
-		.text {
-			flex: 1;
-			max-width: 50%;
-			padding: 10px;
-		}
-	</style>
-</head>
-<body>
-	<div class="container">
-		<div class="image">
-			<img src="https://via.placeholder.com/300x200" alt="placeholder image">
-		</div>
-		<div class="text">
-			<h2>图片说明</h2>
-			<p>这是一张占位图片，用于演示布局效果。</p>
-		</div>
-	</div>
-</body>
-</html>
-
-<html>
-<head>
    <title>图片和文字解释</title>
    <style>
    .container {
