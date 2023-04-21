@@ -24,20 +24,20 @@
 </head>
 <body style = "font-family:Lucida bright;" >
   
-  </body>
 	<div class="container">
 		<div class="image">
 			<img src="photo.jpg/160x200" alt="placeholder image">
 		</div>
 		<div class="text">
-         <p>Postgraduate Student</p>
-         <p>School of Information Science and Engineering</p>
-         <p>Huaqiao University</p>
-         <p>Postcode: 350108</p>
-         <p>Email: 21013082029@stu.hqu.edu.cn / 2667392087@qq.com</p>
+        		 <p>Postgraduate Student</p>
+        		 <p>School of Information Science and Engineering</p>
+        		 <p>Huaqiao University</p>
+       			 <p>Postcode: 350108</p>
+        		 <p>Email: 21013082029@stu.hqu.edu.cn / 2667392087@qq.com</p>
 		</div>
 	</div>
-  
+</body>  
+	
 <body style = "Lucida bright;" >
 <h3>About me</h3>
 <p>I am currently pursuing the M.S. degreer at Huaqiao University (Supervisor: Xiaodan Lin). I've received the bachelor degree from FuZhou University, in 2020.</p>
